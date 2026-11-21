@@ -55,7 +55,7 @@ export function Hero() {
         >
           <span className="size-2 rounded-full bg-fuchsia-400 animate-pulse shadow-[0_0_12px_rgba(232,121,249,0.9)]" />
           <span className="tracking-[0.2em] uppercase font-bold text-white/90">
-            Introducing Sarathi.ai
+            Introducing CodeCompass
           </span>
         </motion.div>
 
@@ -83,7 +83,7 @@ export function Hero() {
           className="mt-8 max-w-2xl mx-auto text-lg md:text-xl text-muted-foreground/90 leading-relaxed font-light"
         >
           Transform basic code into{" "}
-          <strong className="text-white font-medium">production-ready</strong> software. Sarathi
+          <strong className="text-white font-medium">production-ready</strong> software. CodeCompass
           acts as your Senior Engineer—scanning architecture, fixing vulnerabilities, and charting a
           definitive roadmap to excellence.
         </motion.p>

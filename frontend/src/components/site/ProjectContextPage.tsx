@@ -18,7 +18,7 @@ export function ProjectContextPage({ title, description }: ProjectContextPagePro
       <nav className="w-full p-6 flex justify-between items-center z-10">
         <Link to="/" className="flex items-center gap-3 font-display text-xl text-white">
           <Logo className="w-6 h-6 text-white" />
-          <span>Sarathi.ai</span>
+          <span>CodeCompass</span>
         </Link>
         <Link
           to="/"
@@ -41,7 +41,7 @@ export function ProjectContextPage({ title, description }: ProjectContextPagePro
             Hackathon Project Context
           </p>
           <p className="text-white/50 text-sm max-w-md">
-            This page is a placeholder. Sarathi.ai was built as a personal portfolio project by a PG
+            This page is a placeholder. CodeCompass was built as a personal portfolio project by a PG
             student to showcase full-stack engineering and AI integration skills.
           </p>
 

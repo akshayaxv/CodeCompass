@@ -24,7 +24,7 @@ function AboutResumePage() {
       <nav className="fixed top-0 left-0 w-full p-6 flex justify-between items-center z-50 bg-[#050505]/80 backdrop-blur-lg border-b border-white/5">
         <Link to="/" className="flex items-center gap-3 font-display text-xl text-white">
           <Logo className="w-6 h-6 text-white" />
-          <span>Sarathi.ai</span>
+          <span>CodeCompass</span>
         </Link>
         <Link
           to="/"
@@ -62,7 +62,7 @@ function AboutResumePage() {
 
             <p className="text-white/40 leading-relaxed mb-10 max-w-md">
               I build scalable, AI-powered applications that solve real engineering problems.
-              Sarathi.ai is my flagship hackathon project, demonstrating full-stack architecture,
+              CodeCompass is my flagship hackathon project, demonstrating full-stack architecture,
               seamless LLM integration, and modern frontend design.
             </p>
 
@@ -115,9 +115,9 @@ function AboutResumePage() {
               <div className="absolute inset-0 bg-emerald-500/5 opacity-0 group-hover:opacity-100 transition-opacity" />
               <div className="relative z-10">
                 <div className="flex justify-between items-start mb-4">
-                  <h4 className="text-2xl font-display text-white">Sarathi.ai</h4>
+                  <h4 className="text-2xl font-display text-white">CodeCompass</h4>
                   <a
-                    href="https://github.com/akshayaxv/Sarathi-AI"
+                    href="https://github.com/akshayaxv/CodeCompass"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-white/30 hover:text-white transition-colors"

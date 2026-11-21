@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="./frontend/public/favicon.svg" alt="Sarathi.ai Logo" width="120" height="120" />
-  <h1>Sarathi.ai (formerly CodePilot)</h1>
+  <img src="./frontend/public/favicon.svg" alt="CodeCompass Logo" width="120" height="120" />
+  <h1>CodeCompass (formerly CodePilot)</h1>
   <p><strong>Your AI Engineering Mentor: From Student Project to Production-Ready.</strong></p>
   
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
@@ -17,8 +17,8 @@
 ### The Problem
 There is a massive gap between a project that "works on my machine" and software that is truly **production-ready**. Junior developers, students, and self-taught programmers often struggle to implement enterprise-grade system architecture, proper security hardening, and scalable testing environments. Furthermore, 1-on-1 mentorship from Senior Engineers is expensive, scarce, and time-consuming.
 
-### The Solution: Sarathi.ai
-**Sarathi.ai** bridges this gap by acting as an automated Senior Engineering Mentor. By simply providing a GitHub repository URL, Sarathi scans the codebase, evaluates the technology stack, and utilizes advanced Large Language Models (LLMs) to perform a comprehensive code review. 
+### The Solution: CodeCompass
+**CodeCompass** bridges this gap by acting as an automated Senior Engineering Mentor. By simply providing a GitHub repository URL, CodeCompass scans the codebase, evaluates the technology stack, and utilizes advanced Large Language Models (LLMs) to perform a comprehensive code review. 
 
 ### Core Objectives & Business Value
 - **Accelerated Learning:** Turns ambiguous feedback into an actionable, week-by-week implementation roadmap.
@@ -29,7 +29,7 @@ There is a massive gap between a project that "works on my machine" and software
 
 ## 🏗 System Architecture
 
-Sarathi.ai is built using a modern microservices-inspired architecture, ensuring clear separation of concerns, scalability, and robust performance.
+CodeCompass is built using a modern microservices-inspired architecture, ensuring clear separation of concerns, scalability, and robust performance.
 
 ```mermaid
 graph TD
@@ -158,8 +158,8 @@ codepilot-ai/
 
 ## 🚀 Future Enhancements
 
-- **Direct GitHub App Integration:** Moving from a simple URL paste to a full GitHub App installation, allowing Sarathi to automatically create Pull Requests with fixes.
-- **CI/CD Pipeline Integration:** Adding webhooks so Sarathi automatically reviews code every time a user pushes a new commit to their branch.
+- **Direct GitHub App Integration:** Moving from a simple URL paste to a full GitHub App installation, allowing CodeCompass to automatically create Pull Requests with fixes.
+- **CI/CD Pipeline Integration:** Adding webhooks so CodeCompass automatically reviews code every time a user pushes a new commit to their branch.
 - **WebSockets:** Upgrading from HTTP polling to WebSockets (Socket.io) for real-time progress updates during the AI generation phase.
 
 ---

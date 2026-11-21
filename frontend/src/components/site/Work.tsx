@@ -10,14 +10,14 @@ const projects = [
     c: "Step 01",
     img: hero,
     tags: ["Knowledge Graph", "AST Parsing", "Vector Search"],
-    desc: "Sarathi.ai instantly ingests your entire GitHub repository, mapping every function, class, and dependency to build a deep understanding of your architecture.",
+    desc: "CodeCompass instantly ingests your entire GitHub repository, mapping every function, class, and dependency to build a deep understanding of your architecture.",
   },
   {
     t: "Score & Audit",
     c: "Step 02",
     img: orb1,
     tags: ["Security Scan", "Architecture Score", "Risk Analysis"],
-    desc: "Every project gets a 0–100 Architecture Score across 7 categories. Missing auth? No tests? No Docker? Sarathi finds it all and explains exactly why it matters.",
+    desc: "Every project gets a 0–100 Architecture Score across 7 categories. Missing auth? No tests? No Docker? CodeCompass finds it all and explains exactly why it matters.",
   },
   {
     t: "Fix & Implement",
@@ -31,7 +31,7 @@ const projects = [
     c: "Step 04",
     img: orb1,
     tags: ["Week-by-week Plan", "Production Checklist", "Mentor Guidance"],
-    desc: "Sarathi generates a personalized, week-by-week implementation plan tailored to your tech stack. Ship with confidence, not guesswork.",
+    desc: "CodeCompass generates a personalized, week-by-week implementation plan tailored to your tech stack. Ship with confidence, not guesswork.",
   },
 ];
 
@@ -84,7 +84,7 @@ export function Work() {
       >
         <div className="w-full px-8 md:px-[calc(50vw-600px)] flex-shrink-0 z-10 mb-8 md:mb-12">
           <p className="text-xs uppercase tracking-[0.2em] text-fuchsia-400 mb-4 font-bold">
-            — How Sarathi Works
+            — How CodeCompass Works
           </p>
           <h2 className="font-display text-4xl md:text-6xl text-gradient max-w-3xl leading-[1]">
             From raw code to <span className="italic text-iridescent">production-ready</span> in one

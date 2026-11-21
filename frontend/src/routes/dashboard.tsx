@@ -277,7 +277,7 @@ function Dashboard() {
             <p className="text-xs uppercase tracking-[0.24em] text-fuchsia-300 mb-2">
               {currentProject
                 ? `Dashboard / ${currentProject.name}`
-                : "Sarathi.ai / Engineering Mentor"}
+                : "CodeCompass / Engineering Mentor"}
             </p>
             {currentProject ? (
               <>

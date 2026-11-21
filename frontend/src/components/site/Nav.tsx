@@ -46,7 +46,7 @@ export function Nav() {
   const logoNode = (
     <Link to="/" className="flex items-center gap-3 font-display text-lg">
       <Logo className="w-6 h-6" />
-      <span className="hidden sm:inline-block">Sarathi.ai</span>
+      <span className="hidden sm:inline-block">CodeCompass</span>
     </Link>
   );
 

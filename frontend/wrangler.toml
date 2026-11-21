@@ -1,4 +1,4 @@
-name = "sarathi-ai-frontend"
+name = "codecompass-frontend"
 type = "javascript"
 
 [env.production]

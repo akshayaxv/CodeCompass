@@ -79,7 +79,7 @@ ${project.readmeDocs ? project.readmeDocs.substring(0, 8000) : "No README provid
           "Authorization": `Bearer ${process.env.OPENROUTER_API_KEY}`,
           "Content-Type": "application/json",
           "HTTP-Referer": process.env.FRONTEND_URL || "http://localhost:5173",
-          "X-Title": "Sarathi.ai",
+          "X-Title": "CodeCompass",
         };
 
         // callOpenRouter tries each model in sequence, falling back on 429

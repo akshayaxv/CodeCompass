@@ -9,7 +9,7 @@ const features = [
   {
     n: "01",
     t: "Deep Code Review",
-    d: "Sarathi scans your entire codebase like a Senior Engineer—spotting missing layers, bad patterns, and architectural gaps.",
+    d: "CodeCompass scans your entire codebase like a Senior Engineer—spotting missing layers, bad patterns, and architectural gaps.",
     icon: Brain,
   },
   {
@@ -71,7 +71,7 @@ export function Services() {
         <div className="flex items-end justify-between mb-20 flex-wrap gap-6">
           <div>
             <p className="text-xs uppercase tracking-[0.2em] text-fuchsia-400 mb-4 font-bold">
-              — What Sarathi Catches
+              — What CodeCompass Catches
             </p>
             <h2 className="font-display text-5xl md:text-7xl text-gradient max-w-2xl leading-[1]">
               Everything a Senior Engineer{" "}
@@ -79,7 +79,7 @@ export function Services() {
             </h2>
           </div>
           <p className="max-w-sm text-muted-foreground text-lg leading-relaxed">
-            Sarathi.ai is your 24/7 engineering mentor — reviewing code, auditing security, and
+            CodeCompass is your 24/7 engineering mentor — reviewing code, auditing security, and
             charting the exact path to production.
           </p>
         </div>

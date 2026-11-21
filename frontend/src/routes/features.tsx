@@ -5,7 +5,7 @@ export const Route = createFileRoute("/features")({
   component: () => (
     <ProjectContextPage
       title="Features"
-      description="Explore the powerful features of Sarathi.ai, built as a showcase for this hackathon."
+      description="Explore the powerful features of CodeCompass, built as a showcase for this hackathon."
     />
   ),
 });

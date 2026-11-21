@@ -11,7 +11,7 @@ export function Sidebar({ mobileOpen, onClose }: { mobileOpen: boolean; onClose:
         <div className="flex items-center justify-between mb-10">
           <Link to="/" className="flex items-center gap-3 font-display text-xl px-2">
             <Logo className="w-5 h-5" />
-            <span className="block">Sarathi.ai</span>
+            <span className="block">CodeCompass</span>
           </Link>
           <button
             onClick={onClose}

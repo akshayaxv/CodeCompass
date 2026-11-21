@@ -72,7 +72,7 @@ export function Footer() {
               <div className="md:col-span-4 flex flex-col gap-6">
                 <div className="flex items-center gap-3">
                   <Logo className="w-8 h-8 text-white" />
-                  <span className="text-2xl font-display font-medium text-white">Sarathi.ai</span>
+                  <span className="text-2xl font-display font-medium text-white">CodeCompass</span>
                 </div>
                 <p className="text-white/40 max-w-xs leading-relaxed text-sm lg:text-base">
                   The ultimate AI Engineering OS. Transform how your team builds, scales, and
@@ -186,7 +186,7 @@ export function Footer() {
             {/* Bottom Footer Info */}
             <div className="flex flex-col md:flex-row items-center justify-between gap-6 text-xs lg:text-sm text-white/30 pt-6 border-t border-white/5">
               <div className="hidden md:flex flex-1">
-                <p>© {new Date().getFullYear()} Sarathi.ai</p>
+                <p>© {new Date().getFullYear()} CodeCompass</p>
               </div>
 
               <p className="flex-1 flex justify-center items-center gap-2 text-sm lg:text-base font-medium transition-all hover:scale-105 group cursor-default">
@@ -225,7 +225,7 @@ export function Footer() {
               </div>
 
               <a
-                href="mailto:hello@sarathi.ai"
+                href="mailto:hello@codecompass.ai"
                 className="group relative inline-flex items-center justify-center gap-3 px-8 py-4 md:py-5 bg-white text-black rounded-full overflow-hidden transition-transform hover:scale-105 active:scale-95 shrink-0"
               >
                 <span className="relative z-10 font-semibold text-base md:text-lg flex items-center gap-2">
@@ -241,7 +241,7 @@ export function Footer() {
               <div className="md:col-span-4 flex flex-col gap-6">
                 <div className="flex items-center gap-3">
                   <Logo className="w-8 h-8 text-white" />
-                  <span className="text-2xl font-display font-medium text-white">Sarathi.ai</span>
+                  <span className="text-2xl font-display font-medium text-white">CodeCompass</span>
                 </div>
                 <p className="text-white/40 max-w-xs leading-relaxed text-sm lg:text-base">
                   The ultimate AI Engineering OS. Transform how your team builds, scales, and
@@ -355,7 +355,7 @@ export function Footer() {
             {/* Bottom Footer Info */}
             <div className="flex flex-col md:flex-row items-center justify-between gap-6 text-xs lg:text-sm text-white/30 pt-6 border-t border-white/5">
               <div className="hidden md:flex flex-1">
-                <p>© {new Date().getFullYear()} Sarathi.ai</p>
+                <p>© {new Date().getFullYear()} CodeCompass</p>
               </div>
 
               <p className="flex-1 flex justify-center items-center gap-2 text-sm lg:text-base font-medium transition-all hover:scale-105 group cursor-default">
@@ -382,7 +382,7 @@ export function Footer() {
         {/* Massive Background Text */}
         <div className="absolute bottom-[-10px] md:bottom-[-5%] left-0 w-full flex justify-center pointer-events-none select-none overflow-hidden opacity-[0.06] md:opacity-[0.07] z-0">
           <h1 className="text-[23vw] md:text-[27vw] font-display font-bold leading-none tracking-tighter text-white whitespace-nowrap">
-            SARATHI
+            CODECOMPASS
           </h1>
         </div>
       </div>

@@ -46,7 +46,7 @@ export function ProjectContextPage({ title, description }: ProjectContextPagePro
           </p>
 
           <a
-            href="https://vara-s-portfolio.vercel.app/"
+            href="https://github.com/akshayaxv"
             target="_blank"
             rel="noopener noreferrer"
             className="mt-6 inline-flex items-center justify-center px-8 py-3 bg-white text-black rounded-full font-medium hover:scale-105 transition-transform"

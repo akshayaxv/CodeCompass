@@ -51,7 +51,7 @@ function AboutResumePage() {
             <h1 className="text-5xl lg:text-7xl font-display font-medium leading-[1.1] tracking-tight mb-6">
               Hi, I'm <br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-white/40">
-                VARA4u-tech
+                akshayaxv
               </span>
               .
             </h1>
@@ -68,7 +68,7 @@ function AboutResumePage() {
 
             <div className="flex flex-wrap items-center gap-4 mb-12">
               <a
-                href="https://vara-s-portfolio.vercel.app/"
+                href="https://github.com/akshayaxv"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-3 bg-white text-black rounded-full font-medium hover:scale-105 transition-transform"
@@ -76,7 +76,7 @@ function AboutResumePage() {
                 View Live Portfolio <ExternalLink className="w-4 h-4" />
               </a>
               <a
-                href="https://github.com/VARA4u-tech"
+                href="https://github.com/akshayaxv"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-white/5 border border-white/10 hover:bg-white hover:text-black transition-colors"
@@ -117,7 +117,7 @@ function AboutResumePage() {
                 <div className="flex justify-between items-start mb-4">
                   <h4 className="text-2xl font-display text-white">Sarathi.ai</h4>
                   <a
-                    href="https://github.com/VARA4u-tech/codepilot-ai"
+                    href="https://github.com/akshayaxv/Sarathi-AI"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-white/30 hover:text-white transition-colors"
